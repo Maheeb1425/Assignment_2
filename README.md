@@ -1,2 +1,2 @@
 # Assignment_2
-Task of Assignment 2
+Design screen layouts with static data
